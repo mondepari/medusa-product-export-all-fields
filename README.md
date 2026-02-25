@@ -1,0 +1,1 @@
+# medusa-product-export-all-fields
