@@ -1,5 +1,6 @@
 # medusa-product-export-all-fields
 Custom products export with all fileds (support regions price) for Medusa JS v2.
+
 Admin UI страница — src/admin/routes/products/export/page.tsx
 Кнопка "Экспортировать" в боковом меню, вызывает GET /admin/custom/export-products
 
